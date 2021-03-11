@@ -1,7 +1,7 @@
 # iconbutton
 Multifunktional OH3 Button Widget
 
-- designed by BangerTech - 
+- designed by BangerTech
 
 
 
